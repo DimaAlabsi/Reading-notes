@@ -1,16 +1,11 @@
- ## Growth Mindest 
+Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in English language and litreature in 2019 and I'm here to develop my particular life and for sure have a good job and really I'm so happy to work with you all 
 
-*People improving their intelligence and ability to learn new skills and information; this beacuse through hard-working , training and soon.*
-*They believe that learning does'nt stop on the moment you leave your school or university, and they accept failure as a step to success*.
-*This what may open to you more creativity to acheive your goals and dreams*.
-*Also ww must remember that when we we're growing, we're become more productive.*
+[my github link](https://github.com/DimaAlabsi)
 
-So when we faced with 
-- chaleenges
-- effores 
-- and higher goals 
-we will achieve more and more success*  .
+ # Table of content
+ Topics  | Read it!
+------------- | -------------
+Growth Mindest  | [Growthvs. Mindest](https://dimaalabsi.github.io/Reading-notes/growth%20mindest)
+More information | [interesting cvedio](https://www.youtube.com/watch?v=M1CHPnZfFmU)
 
-![Growth mindest](https://mightifier.com/wp-content/uploads/2020/11/dreamstime_m_172148280-1080x675.jpg)
 
-**For more interesting information watch [vedio](https://www.youtube.com/watch?v=M1CHPnZfFmU)**
