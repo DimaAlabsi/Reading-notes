@@ -51,4 +51,4 @@ The statements for loops provided in JavaScript are:
   
       [for more information about the loops ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
- &copy; Dima Alabsi; 2021 
+ #### &copy; Dima Alabsi; 2021 

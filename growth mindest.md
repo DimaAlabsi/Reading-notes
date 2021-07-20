@@ -14,3 +14,6 @@ we will achieve more and more success*  .
 ![Growth mindest](https://mightifier.com/wp-content/uploads/2020/11/dreamstime_m_172148280-1080x675.jpg)
 
 **For more interesting information (watch the vedio){https://www.youtube.com/watch?v=M1CHPnZfFmU}
+  
+#### &copy; Dima Alabsi; 2021 
+

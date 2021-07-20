@@ -35,4 +35,4 @@
   ##### ones and zeroes do play abig role in how computers are electric wirres and circuits that carry all the inform in a computer..
 
 
- &copy; Dima Alabsi; 2021 
+####  &copy; Dima Alabsi; 2021 

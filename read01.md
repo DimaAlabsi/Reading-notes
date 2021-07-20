@@ -18,3 +18,7 @@ use [githup page](https://pages.githup.com) to learn more about it
 
 * Create sophisticated formatting for your prose and code on GitHub with simple syntax.For example, headings
 To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading and also You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). You can also use the keyboard shortcut command + k to create a link*.
+
+
+
+#### &copy; Dima Alabsi; 2021 

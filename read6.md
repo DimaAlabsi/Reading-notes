@@ -26,6 +26,6 @@ There are three ways of inserting a style sheet:
 The goal of a reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings, and so on.
  [FOR MORE INFORMATION](https://meyerweb.com/eric/tools/css/reset/)
 
-  &copy; Dima Alabsi; 2021 
+  #### &copy; Dima Alabsi; 2021 
 
   

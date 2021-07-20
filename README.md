@@ -19,13 +19,13 @@ Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in E
    # Code 201 Reading Notes
    | Topic    | reading |
 | ----------- | ----------- |
-|||
+|About Html & JavaScript|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/class01)|
 
 
                                        
                                         
                                         
-                                        ## &copy; Dima Alabsi; 2021 
+  #### &copy; Dima Alabsi; 2021 
 
 
  
