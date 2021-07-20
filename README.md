@@ -1,6 +1,7 @@
-Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in English language and litreature in 2019 and I'm here to develop my particular life and for sure have a good job and really I'm so happy to work with you all 
+Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in English language and litreature in 2019 and **I'm very interested in Programming and software development** .
 
-[my github link](https://github.com/DimaAlabsi)
+  I’m currently learning about software development..
+ #### [my github link](https://github.com/DimaAlabsi)
 
  # Code 102 Reading Notes
 | Topic    | reading |
