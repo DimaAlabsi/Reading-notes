@@ -74,7 +74,7 @@ BOOLEAN DATA TYPE| Boolean data types can have one of two values: true or false.
 |ARITHMETIC OPERATORS| Perform basic math|
 | STRING OPERATORS | Combine two strings|
 |LOGICAL OPERATORS|Combine expressions and return true or false
-![logical operators](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Logical-Operator.png)|
+![logical operators](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Logical-Operator.png)
 
 
  
