@@ -1,4 +1,4 @@
-##  How to add markup to the text on HTML :
+###  How to add markup to the text on HTML :
 
 
 | Syntax | Description |
