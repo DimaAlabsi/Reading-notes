@@ -20,7 +20,7 @@ Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in E
 | ----------- | ----------- |
 |About Html & JavaScript|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/class01)|
 |  HTML symtax & Introducing CSS & Basic JavaScript Instructions|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/class02)|
-
+| HTML Lists, CSS Boxes, JS Control Flow|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/class03) |
 
                                        
                                         
