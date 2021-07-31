@@ -17,8 +17,13 @@ site is organized.
 
 + specification of any color in CSS in one of three ways :
       +  rgb values
+      
        + hex codes
+       
        + color names
+       
+     ![colors on html](https://www.wideskills.com/sites/default/files/subjects/HTML%20Tutorial/18/image1.png)
+
 + Specifying Typefaces :
      + font-family 
           + font syle
