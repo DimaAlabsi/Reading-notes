@@ -26,5 +26,6 @@ Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in E
 |Links and Layout at HTML & Functions, Methods, Objects and articals at JS | [read about this Topic](https://dimaalabsi.github.io/Reading-notes/class04) |
 | Images, Color, Text on HTML and JS|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/class05)|
 | JS Object Literals; The DOM|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/class06)|
+| Object-Oriented Programming, HTML Tables  |[read about this Topic](https://dimaalabsi.github.io/Reading-notes/class07)|
 
 #### &copy; Dima Alabsi; 2021
