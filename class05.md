@@ -52,3 +52,5 @@ LowerCas
 + Compression : Compression can be of two types;lossless and lossy
  
 ![js](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvNot6mDntxX5pZj1frNrpbVtkNx2S1zyXHg&usqp=CAU)
+
+#### &copy; Dima Alabsi; 2021 
