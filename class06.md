@@ -1,4 +1,4 @@
-# JS Object Literals; The DOM
+# JS Problem Domain, Objects, and the DOM
 
 :"     There are many common answers to this question:
 
