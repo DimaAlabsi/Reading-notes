@@ -46,3 +46,6 @@ Understanding The Problem Domain Is The Hardest Part Of Programming ](https://si
             + the innerHTML property
           + DOM manipulation
           ![DOM](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/08/JavaScript-Document-Object-Model-DOM-1200x675.jpg)
+
+
+#### &copy; Dima Alabsi; 2021 
