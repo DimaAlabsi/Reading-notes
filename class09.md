@@ -1,4 +1,6 @@
 
+ # Forms and JS Events
+ 
  < form> controls that you can use to collect information from visitors: 
 
 Types of forms :
