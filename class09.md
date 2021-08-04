@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
  # Forms and JS Events
+=======
+# Forms and JS Events
+>>>>>>> 7939864d1526a51a02d0a1f83a40366872cda78b
  
  < form> controls that you can use to collect information from visitors: 
 
