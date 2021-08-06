@@ -64,6 +64,13 @@ You can :
  |Direct||
  |Advanced Features||
 
+ ### Video and Audio APIs :
+
+ |||
+ |--------|-------|
+ | < audio>|allow us to embed video an audio into web pages|
+ | < video> |      allow us to embed video  into web pagesvideo controls :  < source src="" type="video/mp4"> , < source src="" type="video/webm">|
+
 
 
 
