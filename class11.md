@@ -71,6 +71,11 @@ You can :
  | < audio>|allow us to embed video an audio into web pages|
  | < video> |      allow us to embed video  into web pagesvideo controls :  < source src="" type="video/mp4"> , < source src="" type="video/webm">|
 
+![audio, vedio at html](https://a.ilovecoding.org/img/embeds-video-audio-and-iframe-elements-sc7.png)
+
+
+![audio, vedio at html](https://image.slidesharecdn.com/odyjgt6slmix47ur8ghv-signature-ab1ceccb1f8c80fc0c4a772ec6f5ff7e658b8296d1227f76388f1981b0bcd4db-poli-160408073201/95/html-tables-forms-and-audio-video-36-638.jpg?cb=1460100868)
+
 
 
 
