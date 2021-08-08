@@ -4,6 +4,7 @@ Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in E
 
 #### [My GITHUB link](https://github.com/DimaAlabsi)
 
+
 # Code 102 Reading Notes
 
 | Topic    | reading |
@@ -29,9 +30,9 @@ Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in E
 | Object-Oriented Programming, HTML Tables  |[read about this Topic](https://dimaalabsi.github.io/Reading-notes/class07)|
 | CSS Layout|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/class08)|
 |  Forms and JS Events|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/class09)|
-<<<<<<< HEAD
-| Audio, Video, Images on HTML|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/class10) |
-|g-notes/class11) |
+|Error Handling & Debugging |[read about this Topic](https://dimaalabsi.github.io/Reading-notes/class10) |
+| Audio, Video, Images on HTML|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/class11) |
+|Docs for the HTML < canvas> Element & Chart.js|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/class12) |
 
 
 
