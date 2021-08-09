@@ -33,7 +33,7 @@ Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in E
 |Error Handling & Debugging |[read about this Topic](https://dimaalabsi.github.io/Reading-notes/class10) |
 | Audio, Video, Images on HTML|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/class11) |
 |Docs for the HTML < canvas> Element & Chart.js|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/class12) |
-
+|Local Storage|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/class13) |
 
 
 
