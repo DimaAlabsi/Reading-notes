@@ -52,6 +52,14 @@ What actions can we take to live up to our stated values?
 
 ![teamwork](https://d19ta9rijs3cxg.cloudfront.net/wp-content/uploads/2020/10/unnamed.png)
 
+"As long as everyone got a chance to talk, the team did well. But if only one person or a small group spoke all the time, the collective intelligence declined.’",
+
+"‘‘I think, until the off-site, I had separated things in my head into work life and life life,’’ Laurent told me. ‘‘But the thing is, my work is my life. I spend the majority of my time working. Most of my friends I know through work. If I can’t be open and honest at work, then I’m not really living, am I?’’" ,
+
+"‘Just having data that proves to people that these things are worth paying attention to sometimes is the most important step in getting them to actually pay attention,’’ Rozovsky told me. ‘‘Don’t underestimate the power of giving people a common platform and operating language.’’"
+
+#### These three quotes are from [**What Google Learned From Its Quest to Build the Perfect Team**](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+
 
 
 
