@@ -1,3 +1,5 @@
+# Reading Notes
+
 Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in English language and litreature in 2019 and **I'm very interested in Programming and software development** .
 
   I’m currently learning about software development..
@@ -5,7 +7,7 @@ Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in E
 #### [My GITHUB link](https://github.com/DimaAlabsi)
 
 
-# Code 102 Reading Notes
+# Code 102 - Intro to Software Development
 
 | Topic    | reading |
 | ----------- | ----------- |
@@ -17,7 +19,7 @@ Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in E
  |CSS |[About CSS](https://dimaalabsi.github.io/Reading-notes/read6)|
  |Expressions and operators|[About it](https://dimaalabsi.github.io/Reading-notes/read7)|
   
-# Code 201 Reading Notes
+# Code 201 - Foundations of Software Development
 
    | Topic    | reading |
 | ----------- | ----------- |
@@ -36,6 +38,9 @@ Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in E
 |Local Storage|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/class13) |
 | CSS Transforms, Transitions, and Animations|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/class13) |
 |Building the Perfect Team|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/class14b) |
+
+# Code 301 - Intermediate Software Development
+
 
 
 #### &copy; Dima Alabsi; 2021
