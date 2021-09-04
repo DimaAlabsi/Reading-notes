@@ -53,3 +53,5 @@ But the important part here is that data with props are being passed in a uni-di
 
 
  **React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.**
+
+ #### &copy; Dima Alabsi; 2021
