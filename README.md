@@ -45,6 +45,6 @@ Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in E
  | Topic    | reading |
 | ----------- | ----------- |
 |Introduction to React and Components|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read1) |
-
+| State and Props | [read about this Topic](https://dimaalabsi.github.io/Reading-notes/read2) |
 
 #### &copy; Dima Alabsi; 2021
