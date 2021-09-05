@@ -59,6 +59,6 @@ also when we change the state inside of our application it's going to render tha
 
 ![prop  state](https://i.stack.imgur.com/wqvF2.png)
 
-[for more information eatvh this **video**](https://www.youtube.com/watch?v=IYvD9oBCuJI)
+[for more information watch this **video**](https://www.youtube.com/watch?v=IYvD9oBCuJI)
 
  #### &copy; Dima Alabsi; 2021 
