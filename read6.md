@@ -6,6 +6,10 @@
 
 #####  is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser.
 
+![node.js](https://dz2cdn1.dzone.com/storage/temp/13725147-nodejs-advantages.jpeg)
+
+
+
 
 
 * **V8 is an open-source JavaScript engine developed by the Chromium Project for Google Chrome and Chromium web browsers.**
@@ -34,7 +38,10 @@
 ##### Node.js has inspired an ecosystem of more than a million packages that are registered and versioned in the NPM repository and can be installed using the NPM command line or an alternative such as Yarn.
 
 
-![node.js](https://dz2cdn1.dzone.com/storage/temp/13725147-nodejs-advantages.jpeg)
+[More about NODE.JS ](https://www.youtube.com/watch?v=uVwtVBpw7RQ)
+
+
+
 
 -------------------
 
@@ -71,7 +78,6 @@
 
 
 
-[More about NODE.JS ](https://www.youtube.com/watch?v=uVwtVBpw7RQ)
 
 
 
