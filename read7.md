@@ -18,6 +18,7 @@
 
 * ***The POST verb is mostly utilized to create new resources. In particular, it's used to create subordinate resources. That is, subordinate to some other (e.g. parent) resource.***
 
+On successful creation, return HTTP status 201, returning a Location header with a link to the newly-created resource with the 201 HTTP status.
 
 *  ***PUT is most-often utilized for update capabilities, PUT-ing to a known resource URI with the request body containing the newly-updated representation of the original resource.
 DELETE is pretty easy to understand. It is used to delete a resource identified by a URI.***
