@@ -23,6 +23,8 @@ On successful creation, return HTTP status 201, returning a Location header with
 *  ***PUT is most-often utilized for update capabilities, PUT-ing to a known resource URI with the request body containing the newly-updated representation of the original resource.
 DELETE is pretty easy to understand. It is used to delete a resource identified by a URI.***
 
+* **DELETE is pretty easy to understand. It is used to delete a resource identified by a URI.**
+
 
 ![api](https://www.astera.com/wp-content/uploads/2020/01/rest.png)
 ### API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. Each time you use an app like Facebook, send an instant message, or check the weather on your phone, you're using an API.
