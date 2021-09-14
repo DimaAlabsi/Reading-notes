@@ -1,7 +1,6 @@
 
 
 # FUNCTIONAL PROGRAMMING
-
 ***Functional programming is a programming paradigm — a style of building the structure and elements of computer programs — that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data***
 
 
@@ -14,13 +13,13 @@
 
 
 * **pure functions** :
-        + It returns the same result if given the same arguments (it is also referred as deterministic)
-           + It does not cause any observable side effects
+
+  + It returns the same result if given the same arguments (it is also referred as deterministic)
+  + It does not cause any observable side effects
 
 
 
-![pure functions](
-![pure functions](https://www.modernescpp.com/images/blog/Functional/PureFunctions/CharakteristikPureFunctionsEng.png)
+![pure fun](https://cdn-media-1.freecodecamp.org/images/0*a_yub2gTwY-1eK8j.png)
 
 
 
@@ -31,9 +30,10 @@ My favorite benefits of pure functions are:
     + They’re easier to combine
     +  They’re easier to test
      + They’re easier to debug
-     +      They’re easier to parallelize
+     +    They’re easier to parallelize
 
 
+------------------
 
 + **immutability** :
 Unchanging over time or unable to be changed.
