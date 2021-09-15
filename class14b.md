@@ -64,4 +64,6 @@ What actions can we take to live up to our stated values?
 
 
 ![teamwork](https://www.mbaskool.com/2019_images/stories/mar_images/team-management.jpg)
+
+
 ####  &copy; Dima Alabsi; 2021 
