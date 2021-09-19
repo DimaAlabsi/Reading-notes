@@ -55,6 +55,7 @@ Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in E
 | FUNCTIONAL PROGRAMMING|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read9)|
 |In memory storage|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read.10)|
 |Mongo and Mongoose|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read11)|
+|CRUD|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read12)|
 
 
 
