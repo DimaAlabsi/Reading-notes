@@ -57,6 +57,7 @@ Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in E
 |Mongo and Mongoose|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read11)|
 |CRUD|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read.12)|
 |Diversity & Inclusion in the Tech Industry|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read.13)|
+|Authentication|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read.14)|
 
 
 
