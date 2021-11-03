@@ -69,6 +69,7 @@ Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in E
 |Node Ecosystem, TDD, CI/CD|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read401)|
 |Express|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read402)|
 | Express REST API|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read403)|
+| Data Modeling|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read404)|
 
 
 
