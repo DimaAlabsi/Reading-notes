@@ -67,5 +67,47 @@ react.js
 What are you most excited about trying to implement or see how it works?
 react.js
 
+--------------------------
+
+### Preparation Materials :
+
+### sql vs nosql
+
+
+**What is NoSQL?**
+
+* NoSQL is a non-relational DMS, that does not require a fixed schema, avoids joins, and is easy to scale. NoSQL database is used for distributed data stores with humongous data storage needs. NoSQL is used for Big data and real-time web apps. For example companies like Twitter, Facebook, Google that collect terabytes of user data every single day.
+
+* NoSQL database stands for “Not Only SQL” or “Not SQL.” Though a better term would NoREL NoSQL caught on. Carl Strozz introduced the NoSQL concept in 1998.
+
+* Traditional RDBMS uses SQL syntax to store and retrieve data for further insights. Instead, a NoSQL database system encompasses a wide range of database technologies that can store structured, semi-structured, unstructured and polymorphic data.
+
+
+**What is SQL?**
+
+* Structured Query language (SQL) pronounced as “S-Q-L” or sometimes as “See-Quel” is the standard language for dealing with Relational Databases. A relational database defines relationships in the form of tables.
+
+* SQL programming can be effectively used to insert, search, update, delete database records.
+
+* That doesn’t mean SQL cannot do things beyond that. It can do a lot of things including, but not limited to, optimizing and maintenance of databases.
+
+* Relational databases like MySQL Database, Oracle, Ms SQL Server, Sybase, etc. use SQL.
+
+
+[Read MORE about sql vs nosql](https://youtu.be/FR4QIeZaPeM)
+
+* Sequelize is a promise-based Node.js ORM tool for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server. It features solid transaction support, relations, eager and lazy loading, read replication and more. [Visit sequelize website & Know More](https://sequelize.org/master/)
+
+
+***Differences between **sql** and **nosql***** 👍
+
+|Sql|Nosql|
+|------|--------|
+|SQL databases are vertically scalable|NoSQL databases are horizontally scalable|
+|SQL databases are primarily called as Relational Databases (RDBMS)|NoSQL database are primarily called as non-relational or distributed database.|
+|SQL databases are table based databases|NoSQL databases are document based|
+|SQL databases uses SQL ( structured query language ) for defining and manipulating the data, which is very powerful|In NoSQL database, queries are focused on collection of documents.|
+
+
  #### &copy; Dima Alabsi; 2021
 
