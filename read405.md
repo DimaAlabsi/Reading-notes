@@ -32,4 +32,5 @@ The amount of memory resources a function uses to store data and instructions.
 |Execution time|Any element in an array can be directly accessed with its index;|in the case of a linked list, all the previous elements must be traversed to reach any element.|
 
 ![arrayvslinkedlist](img/read401.png)
+
  #### &copy; Dima Alabsi; 2021
