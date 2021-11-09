@@ -73,6 +73,7 @@ Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in E
 | Linked Lists|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read405)|
 | Authentication|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read406)|
 |Bearer Authorization|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read407)|
+|Access Control (ACL)|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read408)|
 
 
 

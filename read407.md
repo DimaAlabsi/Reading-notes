@@ -85,4 +85,5 @@ AJAX
 
 
 "JWTs can be either signed, encrypted or both. If a token is signed, but not encrypted, everyone can read its contents, but when you don't know the private key, you can't change it. Otherwise, the receiver will notice that the signature won't match anymore." ***[READ MORE](https://stackoverflow.com/questions/27301557/if-you-can-decode-jwt-how-are-they-secure)***
+
  #### &copy; Dima Alabsi; 2021
