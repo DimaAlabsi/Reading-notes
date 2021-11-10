@@ -61,7 +61,7 @@ Testing
 
 What are you most excited about trying to implement or see how it works?
 
-brear middleware
+breare middleware
 
 
 ----------------------
