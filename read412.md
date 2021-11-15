@@ -45,8 +45,16 @@ one thing to notice that client host will be a localhost as both lie on the same
 ## Preview
 
 1.Which 3 things had you heard about previously and now have better clarity on?
+Authentiacation
+   Payload
+ Signature  
+ 
 2.Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
+events at node.js
+JWT
+Testing
 3.What are you most excited about trying to implement or see how it works?
+continue what we have learned and see the result of those concepts in the front-end with REACT.
 
 ----------------------------------
 
