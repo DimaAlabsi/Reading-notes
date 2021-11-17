@@ -80,6 +80,8 @@ Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in E
 | Socket.io|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read412)|
 | Message Queues|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read413)|
 |Event Driven Architecture|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read414)|
+|Implementation: Trees|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read415)|
+
 
 
 

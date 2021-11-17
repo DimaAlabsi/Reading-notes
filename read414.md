@@ -2,7 +2,7 @@
 
 
 
-# Message Queues
+# Event Driven Architecture
 
 ## Review, Research, and Discussion 💬
 
