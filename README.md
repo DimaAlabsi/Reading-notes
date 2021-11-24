@@ -84,6 +84,8 @@ Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in E
 |AWS: Cloud Servers|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read416)|
 |AWS: S3 and Lambda|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read417)|
 |AWS: API, Dynamo and Lambda|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read418)|
+|AWS: Events|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read419)|
+
 
 
 
