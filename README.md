@@ -85,7 +85,7 @@ Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in E
 |AWS: S3 and Lambda|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read417)|
 |AWS: API, Dynamo and Lambda|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read418)|
 |AWS: Events|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read419)|
-|Component Based UI|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read426)|
+|Component Based UI|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read.426)|
 |useState() Hook|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read427)|
 |Component Lifecycle / useEffect()|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read428)|
 
