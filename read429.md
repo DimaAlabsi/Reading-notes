@@ -1,4 +1,4 @@
- Component Lifecycle / useEffect()
+# Advanced State with Reducers
 
 ## Review, Research, and Discussion 👍
 
