@@ -89,6 +89,7 @@ Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in E
 |useState() Hook|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read427)|
 |Component Lifecycle / useEffect()|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read428)|
 |Advanced State with Reducers|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read429)|
+|Hash Tables|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read430)|
 
 
 
