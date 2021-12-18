@@ -95,7 +95,7 @@ Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in E
 |  < Login /> and < Auth />|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read433)|
 |  API Integration|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read434)|
 |Graphs|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read435)|
-
+|Application State with Redux|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read436)|
 
 
 

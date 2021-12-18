@@ -1,4 +1,4 @@
-# API Integration
+# Application State with Redux
 ## Review, Research, and Discussion 👍
 
 What are the advantages of storing tokens in “Cookies” vs “Local Storage”
