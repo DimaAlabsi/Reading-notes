@@ -98,6 +98,8 @@ Hi everyone I'm Dima Alabsi and I'm 24 years old. Igraduated with BA degree in E
 |Application State with Redux|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read436)|
 |Redux - Combined Reducers|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read437)|
 |Redux - Asynchronous Actions|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read438)|
+|Redux - Additional Topics|[read about this Topic](https://dimaalabsi.github.io/Reading-notes/read439)|
+
 
 
 
